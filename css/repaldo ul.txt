@@ -1,0 +1,57 @@
+
+                <span><input type="checkbox" value="Access door $ 70.00" id="nc1"><label for="nc1">Access door $ 70.00</label></span>
+                <span><input type="checkbox" value="Acid away $ 140.00" id="nc2"><label for="nc2">Acid away $ 140.00</label></span>
+                <span><input type="checkbox" value="Air handler" id="nc3"><label for="nc3">Air handler</label></span>
+                <span><input type="checkbox" value="City permit $ 198.00" id="nc4"><label for="nc4">City permit $ 198.00</label></span>
+                <span><input type="checkbox" value="Compressor" id="nc5"><label for="nc5">Compressor</label></span>
+                <span><input type="checkbox" value="Condenser" id="nc6"><label for="nc6">Condenser</label></span>
+                <span><input type="checkbox" value="Copper pipe insulation 3 ft $90.00" id="nc7"><label for="nc7">Copper pipe insulation 3 ft $ 90.00</label></span>
+                <span><input type="checkbox" value="Copper pipe modification $90.00" id="nc8"><label for="nc8">Copper pipe modification $ 90.00</label></span>
+                <span><input type="checkbox" value="Condenser coil maintenance $150.00" id="nc9"><label for="nc9">Condenser coil maintenance $ 150.00</label></span>
+                <span><input type="checkbox" value="Disconnect $120.00" id="nc10"><label for="nc10">Disconnect $ 120.00</label></span>
+                <span><input type="checkbox" value="Disposal of refrigerant $95.00" id="nc11"><label for="nc11">Disposal of refrigerant $ 95.00</label></span>
+                <span><input type="checkbox" value="Drain line modification $90.00" id="nc12"><label for="nc12">Drain line modification $ 90.00</label></span>
+                <span><input type="checkbox" value="Drain pan $ 140.00" id="nc13"><label for="nc13">Drain pan $ 140.00</label></span>
+                <span><input type="checkbox" value="Evaporator box" id="nc14"><label for="nc14">Evaporator box</label></span>
+                <span><input type="checkbox" value="Evaporator plenum coil" id="nc15"><label for="nc15">Evaporator plenum coil</label></span>
+                <span><input type="checkbox" value="Evaporator slab" id="nc16"><label for="nc16">Evaporator slab</label></span>
+                <span><input type="checkbox" value="Flush the line $140.00" id="nc17"><label for="nc17">Flush the line $ 140.00</label></span>
+
+                <span><input type="checkbox" value="Furnace" id="nc18"><label for="nc18">Furnace</label></span>
+                <span><input type="checkbox" value="Furnace stand $84.00" id="nc19"><label for="nc19">Furnace stand $ 84.00</label></span>
+                <span><input type="checkbox" value="Gas flex $136.00" id="nc20"><label for="nc20">Gas flex $ 136.00</label></span>
+                <span><input type="checkbox" value="Hard pipe $180.00" id="nc21"><label for="nc21">Hard pipe $ 180.00</label></span>
+                <span><input type="checkbox" value="Haul away $100.00" id="nc22"><label for="nc22">Haul away $ 100.00</label></span>
+                <span><input type="checkbox" value="Heater kit ____ KW" id="nc23"><label for="nc23">Heater kit <input type="text" class="nctext"> KW</label></span>
+                <span><input type="checkbox" value="In place evaporator maintenance $180.00" id="nc24"><label for="nc24">In place evaporator maintenance $ 180.00</label></span>
+                <span><input type="checkbox" value="Labor $350.00" id="nc25"><label for="nc25">Labor $ 350.00</label></span>
+                <span><input type="checkbox" value="Liquid line dryer $90.00" id="nc26"><label for="nc26">Liquid line dryer $ 90.00</label></span>
+                <span><input type="checkbox" value="Plenum modification $125.00" id="nc27"><label for="nc27">Plenum modification $ 125.00</label></span>
+                <span><input type="checkbox" value="Plenum supply $350.00" id="nc28"><label for="nc28">Plenum supply $ 350.00</label></span>
+                <span><input type="checkbox" value="Plywood $140.00" id="nc29"><label for="nc29">Plywood $ 140.00</label></span>
+                <span><input type="checkbox" value="Pvc shut off valve $87.00" id="nc30"><label for="nc30">Pvc shut off valve $ 87.00</label></span>
+                <span><input type="checkbox" value="econnect ducts $25.00 each" id="nc31"><label for="nc31">Reconnect ducts $ 25.00 each</label></span>
+                <span><input type="checkbox" value="Recovery of refrigerant $100.00" id="nc32"><label for="nc32">Recovery of refrigerant $ 100.00</label></span>
+                <span><input type="checkbox" value="Refrigerant leak repair $85.00" id="nc33"><label for="nc33">Refrigerant leak repair $ 85.00</label></span>
+<!----------------REFRIGERANTS SECTION--------------->
+                <span><input type="checkbox" value="Refrigerant R22 lbs $" id="nc34"><label for="nc34">Refrigerant R-22 <input type="text" class="nctext" id="r22" onfocusout="refrigerants(id)" value="0"> lbs $<input type="text" class="nctext" readonly value="0.00" id="r22tot"></label></span>
+                    
+                    
+                <span><input type="checkbox" value="Refrigerant 407 C lbs $" id="nc35"><label for="nc35">Refrigerant 407-C <input type="text" class="nctext" id="r407c" onfocusout="refrigerants(id)" value="0"> lbs $<input type="text" class="nctext" readonly value="0.00" id="r407ctot"></label></span>
+                <span><input type="checkbox" value="Refrigerant 410 A lbs $" id="nc36"><label for="nc36">Refrigerant 410-A <input type="text" class="nctext" id="r410a" onfocusout="refrigerants(id)" value="0">lbs $<input type="text" class="nctext" readonly value="0.00" id="r410atot"></label></span>
+                
+                <!----------------REFRIGERANTS SECTION CLOSE--------------->  
+                <span><input type="checkbox" value="Return modification $140.00" id="nc37"><label for="nc37">Return modification $ 140.00</label></span>
+                <span><input type="checkbox" value="Safety float switch in pan $125.00" id="nc38"><label for="nc38">Safety float switch in pan $ 125.00</label></span>
+                <span><input type="checkbox" value="Safety float switch in line $125.00" id="nc39"><label for="nc39">Safety float switch in line $ 125.00</label></span>
+                <span><input type="checkbox" value="Sediment trap $115.00" id="nc40"><label for="nc40">Sediment trap $ 115.00</label></span>
+                <span><input type="checkbox" value="Slab $130.00" id="nc41"><label for="nc41">Slab $ 130.00</label></span>
+                <span><input type="checkbox" value="Sight glass $65.00" id="nc42"><label for="nc42">Sight glass $ 65.00</label></span>
+                <span><input type="checkbox" value="Transition $189.00" id="nc43"><label for="nc43">Transition $ 189.00</label></span>
+                <span><input type="checkbox" value="Transition $189.00" id="nc44"><label for="nc44">Transition modification $ 125.00</label></span>
+                <span><input type="checkbox" value="Thermal expansion valve $237.00" id="nc45"><label for="nc45">Thermal expansion valve $ 237.00</label></span>
+                <span><input type="checkbox" value="Time delay $52.00" id="nc46"><label for="nc46">Time delay $ 52.00</label></span>
+                <span><input type="checkbox" value="Vent pipe $285.00" id="nc47"><label for="nc47">Vent pipe $ 285.00</label></span>
+                <span><input type="checkbox" value="Vent pipe modification $140.00" id="nc48"><label for="nc48">Vent pipe modification $ 140.00</label></span>
+                <span><input type="checkbox" value="Warranty exchange fee $115.00" id="nc49"><label for="nc49">Warranty exchange fee $ 115.00</label></span>
+                <span><input type="checkbox" value="Whip $78.00" id="nc50"><label for="nc50">Whip $ 78.00</label></span>
